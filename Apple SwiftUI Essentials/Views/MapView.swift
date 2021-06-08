@@ -3,7 +3,6 @@
 //  Apple SwiftUI Essentials
 //
 //  Created by Kevin Tran on 6/2/21.
-//
 
 import SwiftUI
 import MapKit
